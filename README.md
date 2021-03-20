@@ -1,1 +1,1 @@
-# OtomsyonProjem
+# StokOtomasyonu
